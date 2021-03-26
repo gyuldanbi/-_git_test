@@ -91,11 +91,11 @@ footer {
 					</tr>
 					<tr>
 						<th>회원전화</th>
-						<td><input type="text" size="30"></td>
+						<td><input type="text" size="32"></td>
 					</tr>
 					<tr>
 						<th>회원주소</th>
-						<td><input type="text" size="40"></td>
+						<td><input type="text" size="38"></td>
 					</tr>
 					<tr>
 						<th>가입일자</th>
